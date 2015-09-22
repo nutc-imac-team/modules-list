@@ -3,7 +3,7 @@
 ## iOS
 | ID | Name | License | Description | Platform | Podfile |
 |---|---|---|---|---|---|---|
-| iOS-000 | [FCSideBar](https://github.com/nutc-imac-team/iOS-000-FCSideBar) || 利用這個元件可以達到掀開布幕的效果，在布幕下的側邊欄可以切換到不同頁面。 | ios, 8.4 | Yes |
+| iOS-000 | [FCSideBar](https://github.com/nutc-imac-team/iOS-000-FCSideBar) |[Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)| 利用這個元件可以達到掀開布幕的效果，在布幕下的側邊欄可以切換到不同頁面。![demo gif](http://i.imgur.com/WqQi3Of.gif) | ios, 8.4 | Yes |
 
 
 ## Android
